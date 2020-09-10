@@ -1,4 +1,4 @@
-<p align='center'><img src="./img/logo.svg"/></p>
+<p align='center'><img width="450" src="./img/logo.svg"/></p>
 <p align='center'>
 <img src="https://img.shields.io/github/repo-size/rafaasimi/consuming-api-github">
 <img src="https://img.shields.io/github/languages/count/rafaasimi/consuming-api-github">
